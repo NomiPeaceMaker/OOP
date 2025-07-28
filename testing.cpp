@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    cout<< "I like pancakes\n";
+    cout<< "I like biriyani\n";
 }
